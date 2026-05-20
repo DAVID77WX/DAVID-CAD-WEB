@@ -1,0 +1,41 @@
+# Node modules and logs
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vite build output
+/dist/
+/.vite/
+/.cache/
+/.output/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE and editor directories
+.idea/
+.vscode/
+*.suo
+*.user
+
+*.sln
+
+# Environment files
+.env
+.env.*
+
+# TypeScript
+*.tsbuildinfo
+
+# Tailwind and PostCSS configs (if generated locally, you may want to keep them versioned)
+# If you prefer to ignore generated config files, uncomment the lines below
+# tailwind.config.js
+# Tailwind/PostCSS config files (if needed)
+
+# Miscellaneous
+*.tmp
